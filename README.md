@@ -1,7 +1,6 @@
 # RustMCP
 
 [![Crates.io](https://img.shields.io/crates/v/rustmcp.svg)](https://crates.io/crates/rustmcp)
-[![Documentation](https://docs.rs/rustmcp/badge.svg)](https://docs.rs/rustmcp)
 [![License](https://img.shields.io/crates/l/rustmcp.svg)](https://github.com/zhangyi/rustmcp-rs/blob/main/LICENSE)
 
 A Rust implementation of the Model Context Protocol (MCP) for building AI agent tools.
